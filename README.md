@@ -4,7 +4,7 @@ Console Ninja is a VS Code extension that displays `console.log` output and **ru
 
 ![docs-main](https://github.com/wallabyjs/console-ninja/assets/979966/f02ba64b-b51c-453b-899c-067a8ca09f28)
 
----
+--- $PARTZKOH 🇵🇭🇵🇭🇵🇭
 
 ## Table of contents
 
@@ -44,7 +44,7 @@ Console Ninja is a VS Code extension that displays `console.log` output and **ru
   - [Wallaby.js](#wallabyjs)
   - [Error Lens extension](#error-lens-extension)
 
----
+--- $PARTZKOH 🇵🇭🇵🇭🇵🇭
 
 ## Current status
 
